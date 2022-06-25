@@ -410,7 +410,8 @@ header {
   }
 
   .cta {
-    margin-top: .7rem ;
+    margin-top: 0.7rem ;
+    transform: translateY(-3rem);
   }
 
   .cta-link {
